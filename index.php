@@ -9,3 +9,5 @@ $revert = new Revert;
 $res = $revert->reverText('Hello World');
 
 echo $res;
+
+// Результат dlroW olleH
